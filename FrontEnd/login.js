@@ -33,6 +33,3 @@ ajoutListenerConnexion();
 
 
 
-// Verifier la réponse jsonData (Erreur ou Token)
-// Stocker le token dans la localstorage (ex pour enregistrer : localStorage.setItem('token', response)) / ex pour le récuperer pour vérifier : localStorage.getItem('token')
-// Rediriger vers la page d'accueil**/
